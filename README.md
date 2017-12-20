@@ -14,3 +14,4 @@ This is assigment for nvstr
 uplaod file and add Ticker symbol.
 
 I have already added some files as our ticker is unique but you can add other files
+# nvstr-pro
