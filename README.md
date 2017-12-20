@@ -9,7 +9,7 @@ This is assigment for nvstr
 
 3: `npm install`
 
-4: `npm install`
+4: `npm start`
 
 uplaod file and add Ticker symbol.
 
